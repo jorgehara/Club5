@@ -2,6 +2,9 @@
   "name": "Page Header",
   "unique_id": "Pn3R0no1",
   "parent": "wPDsBNl9",
+  "path": "ph.tpl",
+  "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
   "value": "ph"

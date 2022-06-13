@@ -2,6 +2,9 @@
   "name": "Body",
   "unique_id": "X3ABwAro",
   "parent": "wPDsBNl9",
+  "path": "b.tpl",
+  "completePath": "elements/Aptugo Internal Use/b.tpl",
+  "collapseStatus": "expand",
   "cascades": false,
   "type": "element",
   "value": "b"

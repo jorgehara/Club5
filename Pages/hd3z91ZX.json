@@ -2,6 +2,9 @@
   "name": "Before Page Render",
   "unique_id": "hd3z91ZX",
   "parent": "wPDsBNl9",
+  "path": "bpr.tpl",
+  "completePath": "elements/Aptugo Internal Use/bpr.tpl",
+  "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
   "value": "bpr"
