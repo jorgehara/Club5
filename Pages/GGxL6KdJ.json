@@ -2,6 +2,8 @@
   "name": "Page Footer",
   "unique_id": "GGxL6KdJ",
   "parent": "UzmDbvlD",
+  "path": "pf.tpl",
+  "completePath": "elements/Aptugo Internal Use/pf.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",

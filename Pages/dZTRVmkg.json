@@ -1,0 +1,14 @@
+{
+  "name": "Socials",
+  "unique_id": "dZTRVmkg",
+  "parent": "9xdGV83b",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.socials"
+  }
+}

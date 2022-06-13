@@ -2,6 +2,8 @@
   "name": "After Page Render",
   "unique_id": "dfThsFvl",
   "parent": "UzmDbvlD",
+  "path": "apr.tpl",
+  "completePath": "elements/Aptugo Internal Use/apr.tpl",
   "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",

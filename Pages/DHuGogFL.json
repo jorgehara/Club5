@@ -1,0 +1,16 @@
+{
+  "name": "Whatsapp",
+  "unique_id": "DHuGogFL",
+  "parent": "dZTRVmkg",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "width": "30",
+    "height": "30",
+    "useAsset": "MBLK292a"
+  }
+}

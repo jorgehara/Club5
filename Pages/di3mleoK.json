@@ -1,0 +1,16 @@
+{
+  "name": "Load Servicios from Database",
+  "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.data).name\n    const calc = 'Load ' + tblname + ' from database'\n    return calc\n  } catch(e) {\n    return ele.name\n  }\n}",
+  "unique_id": "di3mleoK",
+  "parent": "3ngNuVw6",
+  "path": "loadFromRedux.tpl",
+  "completePath": "elements/Programming/loadFromRedux.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "loadFromRedux",
+  "values": {
+    "data": "sZGEQGWQ",
+    "variableName": "servicios"
+  }
+}

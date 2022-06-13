@@ -4,6 +4,7 @@
   "parent": "9o3JE93V",
   "path": "condition.tpl",
   "completePath": "elements/Programming/condition.tpl",
+  "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
   "value": "condition",

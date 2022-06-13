@@ -1,0 +1,11 @@
+{
+  "name": "Table Area",
+  "unique_id": "Gflhn0VM",
+  "parent": "2VEkcEoS",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "classes.tableResponsive"
+  }
+}

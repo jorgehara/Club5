@@ -1,0 +1,15 @@
+{
+  "name": "dialog",
+  "unique_id": "om5KucuP",
+  "parent": "iqhsJI1d",
+  "path": "dialog.tpl",
+  "completePath": "elements/Material-UI/dialog.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "dialog",
+  "values": {
+    "table": "sZGEQGWQ",
+    "addProcedure": "Internal"
+  }
+}

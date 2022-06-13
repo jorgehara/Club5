@@ -1,0 +1,11 @@
+{
+  "name": "Tabla",
+  "unique_id": "lhvTNdNP",
+  "parent": "FiGlJnPM",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div"
+}

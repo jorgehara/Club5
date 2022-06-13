@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap'); //Import Font
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.basicApp {
+    background-color: #FAF9F9;
+    //height: 100%;
+    & .basicCard {
+        display: flex;
+        flex-direction: column;
+        background: #FFFFFF;
+        border-radius: 20px;
+        width: 1240px;
+        margin: 250px auto 125px;
+        & .basicCardHeader {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            & picture {
+                position: absolute;
+                top: -111px;
+            }
+            & h2 {
+                font-style: normal;
+                font-weight: bold;
+                font-size: 45px;
+                line-height: 132.8%;
+                text-align: center;
+                color: #000000;
+                padding: 145px 0 95px;
+            }
+        }
+        & .basicCardServicios {
+            display: flex;
+            flex-direction: column;
+            gap: 120px;
+            padding: 0 80px 200px;
+            & .basicCardServicio {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+                & img {
+                    filter: drop-shadow(8px 10px 19px rgba(0, 0, 0, 0.25));
+                    border-radius: 20px;
+                }
+                & .basicCardServicioInfo {
+                    width: 515px;
+                    & h4 {
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 20px;
+                        line-height: 132.8%;
+                        color: #6B2D06;
+                        padding: 0 0 22px;
+                    }
+                    & h5 {
+                        font-style: normal;
+                        font-weight: normal;
+                        font-size: 17px;
+                        line-height: 132.4%;
+                        color: #0D1D2A;
+                    }
+                }
+            }
+        }
+        & div[class*="socials"] {margin: 0 auto 75px;}
+    }
+    & > h6 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 132.4%;
+        color: #0D1D2A;
+        text-align: center;
+        margin: auto;
+        padding: 0 0 125px;
+    }
+}

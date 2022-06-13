@@ -1,0 +1,16 @@
+{
+  "name": "image",
+  "unique_id": "9ZErus5L",
+  "parent": "c9QU23oX",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "path": "/img/${item.Imagen}",
+    "width": "470",
+    "height": "265"
+  }
+}

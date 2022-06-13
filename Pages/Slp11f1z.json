@@ -1,0 +1,11 @@
+{
+  "name": "Head",
+  "unique_id": "Slp11f1z",
+  "parent": "uszwUBf0",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tableHeading"
+  }
+}

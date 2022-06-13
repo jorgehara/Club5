@@ -1,0 +1,14 @@
+{
+  "name": "Loop Servicios",
+  "unique_id": "RAhlwZxz",
+  "parent": "PO3TPH3I",
+  "path": "loop.tpl",
+  "completePath": "elements/Programming/loop.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "loop",
+  "values": {
+    "variable": "servicios"
+  }
+}

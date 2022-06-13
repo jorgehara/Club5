@@ -4,10 +4,12 @@
   "parent": "23cgQ2uK",
   "path": "themeSelection.tpl",
   "completePath": "elements/Experimental/themeSelection.tpl",
+  "collapseStatus": "collapse",
   "cascades": true,
   "type": "element",
   "value": "themeSelection",
   "values": {
-    "theme": "minimum"
+    "theme": "minimum",
+    "useAsset": "xuxeTH1u"
   }
 }

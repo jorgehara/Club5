@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "unique_id": "hTwTwRGM",
+  "parent": "vtetPgCy",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "{item.Nombre}"
+  }
+}

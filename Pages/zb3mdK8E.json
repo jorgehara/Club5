@@ -2,6 +2,8 @@
   "name": "Before Page Render",
   "unique_id": "zb3mdK8E",
   "parent": "UzmDbvlD",
+  "path": "bpr.tpl",
+  "completePath": "elements/Aptugo Internal Use/bpr.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",

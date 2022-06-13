@@ -1,0 +1,15 @@
+{
+  "name": "Nombre",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "unique_id": "vtetPgCy",
+  "parent": "fBLTDqoq",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  }
+}

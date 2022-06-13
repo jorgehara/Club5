@@ -2,6 +2,8 @@
   "name": "navLink",
   "unique_id": "JZ8a5rXO",
   "parent": "TFd7utG5",
+  "path": "navLink.tpl",
+  "completePath": "elements/Material-UI/navLink.tpl",
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",

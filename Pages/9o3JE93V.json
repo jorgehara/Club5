@@ -4,6 +4,7 @@
   "parent": "I0u5AJTG",
   "path": "onPageLoad.tpl",
   "completePath": "elements/Programming/onPageLoad.tpl",
+  "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
   "value": "onPageLoad"

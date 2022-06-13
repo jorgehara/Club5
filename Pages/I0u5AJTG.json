@@ -4,6 +4,7 @@
   "parent": "23cgQ2uK",
   "path": "dummyEncloser.tpl",
   "completePath": "elements/Basic/dummyEncloser.tpl",
+  "collapseStatus": "collapse",
   "cascades": true,
   "type": "element",
   "value": "dummyEncloser"

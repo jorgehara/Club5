@@ -1,0 +1,14 @@
+{
+  "name": "Ingrese sus datos",
+  "unique_id": "ZLmFhfOt",
+  "parent": "DRBZZDbw",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Ingrese sus datos"
+  }
+}

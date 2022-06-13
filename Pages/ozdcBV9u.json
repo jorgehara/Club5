@@ -1,0 +1,14 @@
+{
+  "name": "Table Area",
+  "unique_id": "ozdcBV9u",
+  "parent": "ZvW2yCQI",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "classes.tableResponsive"
+  }
+}

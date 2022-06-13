@@ -1,0 +1,14 @@
+{
+  "name": "table",
+  "unique_id": "X6PnhwQz",
+  "parent": "NWffvOai",
+  "cascades": false,
+  "type": "element",
+  "value": "table",
+  "values": {
+    "table": "TlqSaqfP",
+    "editProcedure": "Internal",
+    "title": "Table Title",
+    "headerColor": "rose"
+  }
+}

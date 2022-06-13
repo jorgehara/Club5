@@ -1,0 +1,15 @@
+{
+  "name": "Copyright",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "unique_id": "WlFLLWMG",
+  "parent": "1UBuHx6P",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h6"
+  }
+}

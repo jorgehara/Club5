@@ -1,0 +1,11 @@
+{
+  "name": "Paper",
+  "unique_id": "nTA4SZIi",
+  "parent": "dAoiLc9D",
+  "path": "Paper.tpl",
+  "completePath": "elements/Material-UI/Paper.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "Paper"
+}

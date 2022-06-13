@@ -4,6 +4,7 @@
   "parent": "I0u5AJTG",
   "path": "useState.tpl",
   "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
   "value": "useState",

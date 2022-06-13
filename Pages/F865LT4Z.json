@@ -1,0 +1,14 @@
+{
+  "name": "Head",
+  "unique_id": "F865LT4Z",
+  "parent": "dAoiLc9D",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tableHeading"
+  }
+}

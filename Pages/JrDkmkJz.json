@@ -1,0 +1,17 @@
+{
+  "name": "table",
+  "originalName": "table",
+  "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.table).name\n    const calc = tblname + ' Table'\n    return calc\n  } catch(e) {\n    return 'Table'\n  }\n}",
+  "unique_id": "JrDkmkJz",
+  "parent": "lhvTNdNP",
+  "path": "table.tpl",
+  "completePath": "elements/Material-UI/table.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "table",
+  "values": {
+    "table": "sZGEQGWQ",
+    "editProcedure": "Internal"
+  }
+}

@@ -2,6 +2,8 @@
   "name": "Body",
   "unique_id": "lHC4ae18",
   "parent": "NJNdBl70",
+  "path": "b.tpl",
+  "completePath": "elements/Aptugo Internal Use/b.tpl",
   "collapseStatus": "expand",
   "cascades": true,
   "type": "element",
