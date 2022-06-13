@@ -1,0 +1,13 @@
+{
+  "name": "themeSelection",
+  "unique_id": "KEkSabRr",
+  "parent": "23cgQ2uK",
+  "path": "themeSelection.tpl",
+  "completePath": "elements/Experimental/themeSelection.tpl",
+  "cascades": true,
+  "type": "element",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum"
+  }
+}

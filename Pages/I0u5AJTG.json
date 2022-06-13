@@ -1,0 +1,10 @@
+{
+  "name": "Language",
+  "unique_id": "I0u5AJTG",
+  "parent": "23cgQ2uK",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "cascades": true,
+  "type": "element",
+  "value": "dummyEncloser"
+}

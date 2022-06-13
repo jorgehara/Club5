@@ -1,0 +1,10 @@
+{
+  "name": "Page Header",
+  "unique_id": "23cgQ2uK",
+  "parent": "UzmDbvlD",
+  "path": "ph.tpl",
+  "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "ph"
+}

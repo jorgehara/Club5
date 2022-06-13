@@ -1,0 +1,12 @@
+{
+  "name": "text",
+  "unique_id": "W9V6nAGr",
+  "parent": "Q7ATEt57",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "<span>(you can edit me at the Page Manager)</span>"
+  }
+}

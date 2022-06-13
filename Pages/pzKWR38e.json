@@ -1,0 +1,12 @@
+{
+  "name": "updateStateVariable",
+  "unique_id": "pzKWR38e",
+  "parent": "md8vfero",
+  "cascades": false,
+  "type": "element",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  }
+}

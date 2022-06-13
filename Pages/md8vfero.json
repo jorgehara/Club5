@@ -1,0 +1,14 @@
+{
+  "name": "Lang Strings Exist?",
+  "unique_id": "md8vfero",
+  "parent": "9o3JE93V",
+  "path": "condition.tpl",
+  "completePath": "elements/Programming/condition.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "condition",
+  "values": {
+    "condition": "typeof langStrings !== 'undefined'",
+    "useInCode": true
+  }
+}

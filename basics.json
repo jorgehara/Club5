@@ -1,0 +1,39 @@
+{
+  "_id": "ED0ly6I6Pqqrn1kB",
+  "createdAt": 1655128443191,
+  "modifiedAt": 1655128499717,
+  "lastSaved": 1655128499717,
+  "settings": {
+    "name": "Club5",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://club5_.aptugo.com",
+      "folder": "Club5",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://club5_.aptugo.com",
+      "folder": "Club5_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://Club5_jorgejara2014gmailcom.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Remote (Aptugo)",
+      "url": "https://club5_jorgejara2014gmailcom.aptugo.app",
+      "folder": "Club5",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://club5_jorgejara2014gmailcom.backend.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/club5",
+      "variables": ""
+    },
+    "lastSaved": null,
+    "lastBuild": null
+  }
+}

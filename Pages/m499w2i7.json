@@ -1,0 +1,14 @@
+{
+  "name": "Language",
+  "unique_id": "m499w2i7",
+  "parent": "I0u5AJTG",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "lang",
+    "defaultValue": "'en'"
+  }
+}
